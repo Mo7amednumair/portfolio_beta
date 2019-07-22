@@ -1,0 +1,11 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Electrical Design" : "80",
+		"Matlab" : "80" ,
+		"Control and Automation" : "70",
+		"MS office" : "96",
+		
+		"Autocad" : "60"
+	}
+}	

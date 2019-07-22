@@ -1,0 +1,5 @@
+baseURL = "https://Numair.com"
+languageCode = "en-us"
+title = "Valentina"
+theme = "hugo-uilite"
+

@@ -1,0 +1,68 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		
+		{
+			"timeperiod" : "Week in  2016",
+			"company" : "TIEC • InnovEgypt",
+			"description" : "I am an InnovEgypt Program graduate, where I learnt a lot about ideation, Innovation and Entrepreneurship. It was a life changing experience for me."
+		}
+		
+		,
+
+		{
+			"timeperiod" : "July 2017 - August 2017",
+			"company" : "ABU-QIR • POWER PLANT",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		}
+
+		,
+
+		
+		{
+			"timeperiod" : "Feb. 2017 - March 2017",
+			"company" : "ABC • SOLAR ENERGY FULL DIPLOMA",
+			"description" : "I have had full diploma of solar energy from the solar cell manufacturing till the implementation of it in creating PV systems for home as an on-grid or off-grid system"
+		}
+
+		,
+
+		
+		{
+			"timeperiod" : "July 2018",
+			"company" : "MASHREQ • IRRIGATION PV SYSTEM",
+			"description" : "Best Employee of the Year "
+		}
+
+
+		,
+
+		
+		{
+			"timeperiod" : "2018",
+			"company" : "SCHNEIDER • ONLINE ENERGY UNIVERSITY",
+			"description" : "I have taken over 30 online courses provided by Schneider’s Energy University website"
+		}
+
+	,
+
+		
+		{
+			"timeperiod" : "July 2018 - Aug. 2018",
+			"company" : "EGYPTAIR • AVIONICS ENGINEERING",
+			"description" : "I have taken over 30 online courses provided by Schneider’s Energy University website"
+		}
+
+		,
+
+		
+		{
+			"timeperiod" : "2017 ~ 2019",
+			"company" : "JELECOM • ELECTRICAL COURSES",
+			"description" : "I have completed a number of electrical courses including the following : 1-Electrical Distribution 2-Classic Control3-PLC (S7-200 & S7-1200 & S7-300) Advanced and can deal with other models as well"
+		}
+
+
+
+	]
+}
