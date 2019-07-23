@@ -1,11 +1,14 @@
 {
-	"title" : "Skills",
+	"title" : "Skills & Languages",
 	"skills" : {
-		"Electrical Design" : "80",
-		"Matlab" : "80" ,
-		"Control and Automation" : "70",
+		"Arabic" : "100",
+		"English" : "96" ,
+		"Chinese" : "10",
 		"MS office" : "96",
-		
-		"Autocad" : "60"
+		"Electrical Distribution" : "80",
+		"Automation" : "85",
+		"Autocad" : "60",
+		"MATLAB" : "60",
+
 	}
 }	
