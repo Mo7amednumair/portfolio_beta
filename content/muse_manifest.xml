@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MohamedNumair.com,MohamedNumair.cf,numair.cf" resolutions="1x,2x" timestamp="1576594862723">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MohamedNumair.com,MohamedNumair.cf,numair.cf" resolutions="1x,2x" timestamp="1576597465528">
   <folder name="assets">
     <file name="numair-resume-2019dec.pdf" crc="214143334" seo="true" mt="1576594329000"/>
   </folder>
@@ -1162,10 +1162,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="graduation-photo-crop-u92810.jpg" crc="446016577" seo="true" ref="index">
+    <file name="graduation-photo-crop-u92810.jpg" crc="4122743791" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="graduation-photo-crop-u92810_2x.jpg" crc="4105191742" seo="true" ref="index">
+    <file name="graduation-photo-crop-u92810_2x.jpg" crc="4259983473" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="academic writing-crop-u92390.jpg" crc="3828260701" seo="true" ref="index">
@@ -1186,10 +1186,10 @@
     <file name="3rd power rank-crop-u91897_2x.jpg" crc="145652809" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="egyptair-crop-u92530.jpg" crc="417783569" seo="true" ref="index">
+    <file name="egyptair-crop-u92530.jpg" crc="3822771468" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="egyptair-crop-u92530_2x.jpg" crc="403719050" seo="true" ref="index">
+    <file name="egyptair-crop-u92530_2x.jpg" crc="4044839409" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="abu-qir-crop-u92320.jpg" crc="4264441968" seo="true" ref="index">
@@ -2086,10 +2086,10 @@
     <file name="4th power rank116x82_2x.jpg" crc="3805582409" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="egyptair-crop-u925306.jpg" crc="4125041789" seo="true" ref="index">
+    <file name="egyptair-crop-u925306.jpg" crc="484844993" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="egyptair-crop-u92530_2x6.jpg" crc="296696564" seo="true" ref="index">
+    <file name="egyptair-crop-u92530_2x6.jpg" crc="415310351" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="hvsc conf115x82.jpg" crc="132421861" seo="true" ref="index">
@@ -2303,5 +2303,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4026567816" seo="true" mt="1576594488546" redirect="true"/>
+  <file name="index.html" crc="3996733856" seo="true" mt="1576597232374" redirect="true"/>
 </manifest>
